@@ -73,6 +73,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sajaldhuriya/sajaldhuriya/output/snake.svg" alt="Snake animation" />
 
 ###
