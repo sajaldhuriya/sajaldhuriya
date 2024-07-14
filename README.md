@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sajal and I'm an Engineer👨‍🔬, from Prayagraj</h2>
+Hi 👋![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sajal and I'm an Engineer👨‍🔬, from Prayagraj
 
 ###
 
