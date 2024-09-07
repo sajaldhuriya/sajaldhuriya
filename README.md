@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sajal and I'm an Engineer👨‍🔬, from Prayagraj</h2>
+<h2 align="left">Hi 👋! My name is Sajal and I'm an Engineering Student👨‍🔬, from Prayagraj</h2>
 
 ###
 
